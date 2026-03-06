@@ -114,7 +114,7 @@ Image_Captioning
 Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/Image_Captioning.git
+git clone https://github.com/Aditya-Gupta23/Image-Caption-Generator-using-Xception-LSTM.git
 cd Image_Captioning
 ```
 
