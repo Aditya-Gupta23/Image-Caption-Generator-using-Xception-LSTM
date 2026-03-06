@@ -1,0 +1,43 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+
+# MacOS
+
+.DS_Store
+
+# Dataset
+
+Flicker8k_Dataset/
+Flickr8k_text/
+
+# Model files
+
+models/
+*.h5
+*.p
+
+# Logs
+
+*.log
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp

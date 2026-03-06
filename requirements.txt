@@ -1,0 +1,7 @@
+tensorflow-macos
+tensorflow-metal
+numpy
+matplotlib
+pillow
+tqdm
+scikit-learn
